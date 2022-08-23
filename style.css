@@ -92,5 +92,21 @@ header {
 }
 
 .angle-down-icon a {
+    text-decoration: none;
+    color: #07374a;
+    padding: 1rem;
+}
 
+/* inicio do Sobre mim */
+
+.about-me {
+    background-color: #07374a;
+    padding: 6rem 0;
+}
+
+.about-me .about-heading {
+    color: #25b79f;
+    font-size: 2rem;
+    font-weight: 600;
+    text-align: center;
 }
