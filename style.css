@@ -233,3 +233,44 @@ header {
     border-radius: 3px;
 }
 
+.process-line .html::after {
+    content: 80%;
+}
+
+.process-line .css::after {
+    content: 70%
+}
+
+.process-line .javascript::after {
+    content: 40%
+}
+
+.navbar.solid {
+    background-color: #07374a;
+    transition: background-color 1s ease 0s;
+    box-shadow: 0 0 4px rgb(7 55 74 / 20%);
+    z-index: 500;
+}
+
+.navbar.solid .navbar-brand {
+    display: inline-block;
+    color: #f0f0e6;
+    transition: color 1s ease 0s;
+}
+
+.navbar-brand {
+    display: none;
+    color: #f0f0e6;
+    font-weight: 400;
+}
+
+.work-arrow {
+    margin: 2rem 0;
+}
+
+.work-arrow a{
+    font-size: 1rem;
+    text-decoration: none;
+    color: #25b79f;
+}
+
