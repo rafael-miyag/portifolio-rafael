@@ -202,14 +202,13 @@ header {
 .progress-line .css {
   width: 70%;
 }
-.progress-line .bootstrap {
-  width: 50%;
-}
+
 .progress-line .javascript {
-  width: 50%;
+  width: 30%;
 }
-.progress-line .c {
-  width: 50%;
+
+.progress-line .react {
+  width: 20%;
 }
 
 .bar .progress-line span::before {
@@ -244,14 +243,13 @@ header {
 .progress-line .css::after {
   content: "70%";
 }
-.progress-line .bootstrap::after {
-  content: "50%";
-}
+
 .progress-line .javascript::after {
-  content: "50%";
+  content: "30%";
 }
-.progress-line .c::after {
-  content: "50%";
+
+.progress-line .react::after {
+  content: "20%";
 }
 
 .navbar.solid {
