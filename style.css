@@ -21,7 +21,7 @@ header {
   margin: auto;
 }
 
-/* ////........Navbar.......//// */
+/* Barra de navegação */
 
 .navbar {
   position: fixed;
@@ -62,7 +62,7 @@ header {
   font-size: 2rem;
 }
 
-/* ////........Home Content........//// */
+/* Conteúdo home */
 
 .home-content .name {
   position: absolute;
@@ -100,7 +100,7 @@ header {
   padding: 1rem;
 }
 
-/* ////........About Me........//// */
+/* Sobre mim */
 
 .about-me {
   background-color: #07374a;
@@ -149,7 +149,7 @@ header {
   flex-basis: 45%;
 }
 
-/* ///.....Skill Bar....../// */
+/* Barra de progressão */
 
 .skills-bar {
   padding: 25px 30px;
@@ -292,7 +292,7 @@ header {
   display: none;
 }
 
-/* ////.....Portfolio......///// */
+/*  Portfolio  */
 
 .portfolio {
   background: #25b79f;
@@ -467,7 +467,7 @@ header {
   border-bottom: 2px solid #f0f0e6;
 }
 
-/* ////......Contact......///// */
+/* Contato */
 
 .contact {
   background: #07374a;
@@ -514,7 +514,7 @@ header {
   color: #f0f0e6;
 }
 
-/* ////......Media query......//// */
+/* Pesquisa de midia */
 
 @media (max-width: 500px) {
   html {
