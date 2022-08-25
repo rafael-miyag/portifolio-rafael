@@ -11,7 +11,7 @@ body {
 }
 
 header {
-  background-color: #25b79f;
+  background-color: #2594b6;
   height: 100vh;
 }
 
@@ -108,7 +108,7 @@ header {
 }
 
 .about-me .about-heading {
-  color: #25b79f;
+  color: #2594b6;
   font-size: 2rem;
   font-weight: 600;
   text-align: center;
@@ -131,7 +131,7 @@ header {
 .skills .skills-heading {
   font-size: 2rem;
   font-weight: 600;
-  color: #25b79f;
+  color: #2594b6;
   text-align: center;
 }
 
@@ -182,7 +182,7 @@ header {
 
 .bar .progress-line span {
   position: absolute;
-  background: #25b79f;
+  background: #2594b6;
   height: 100%;
   border-radius: 10px;
   transform: scaleX(0);
@@ -278,7 +278,7 @@ header {
 .work-arrow a {
   font-size: 1rem;
   text-decoration: none;
-  color: #25b79f;
+  color: #2594b6;
 }
 
 .work-arrow-2 {
@@ -288,14 +288,14 @@ header {
 .work-arrow-2 a {
   font-size: 1rem;
   text-decoration: none;
-  color: #25b79f;
+  color: #2594b6;
   display: none;
 }
 
 /*  Portfolio  */
 
 .portfolio {
-  background: #25b79f;
+  background: #2594b6;
   padding: 6rem 0;
 }
 
@@ -486,7 +486,7 @@ header {
 .contact-content h2 {
   font-size: 2.5rem;
   font-weight: 400;
-  color: #25b79f;
+  color: #2594b6;
   padding-bottom: 0.5rem;
 }
 
@@ -497,7 +497,7 @@ header {
 }
 
 .contact-content .links {
-  color: #25b79f;
+  color: #2594b6;
   padding: 0.5rem;
   padding-bottom: 1.8rem;
   font-size: 1rem;
@@ -505,7 +505,7 @@ header {
 
 .contact-content a {
   text-decoration: none;
-  color: #25b79f;
+  color: #2594b6;
   padding: 0.5rem;
   transition: 0.3s ease-in-out;
 }
@@ -573,7 +573,7 @@ header {
   .work-arrow-2 a {
     font-size: 1.3rem;
     text-decoration: none;
-    color: #25b79f;
+    color: #2594b6;
     display: block;
     text-align: center;
   }
@@ -640,7 +640,7 @@ header {
   .work-arrow-2 a {
     font-size: 1.3rem;
     text-decoration: none;
-    color: #25b79f;
+    color: #2594b6;
     display: block;
     text-align: center;
   }
@@ -689,7 +689,7 @@ header {
   .work-arrow-2 a {
     font-size: 1.3rem;
     text-decoration: none;
-    color: #25b79f;
+    color: #2594b6;
     display: block;
     text-align: center;
   }
